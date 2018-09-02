@@ -25,3 +25,5 @@
 * Part 10 - Disaster management via Earth observation mission for Indonesia
 ---
 **_Thank you for visiting_**
+---
+Author info: Ali Nawaz, 3ME, LR, Delft University of Technology.
