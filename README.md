@@ -1,8 +1,8 @@
-###:rocket: Mission-geometry-and-orbit-design :rocket:
+### :rocket: Mission-geometry-and-orbit-design :rocket:
 ---
 **_Reports along with the scripts written as part of the course "AE4878 - Mission Geometry and Orbit Design"_**
 ---
-#####:beginner: This git repository aims at outlining the following 10 parts:
+##### :beginner: This git repository aims at outlining the following 10 parts:
 
 * Part 1 - Coordinate Transformations 1
 
